@@ -1,4 +1,4 @@
-# OpenCode AI TUI
+# OpenCode Windows
 
 Terminal-first AI coding assistant supporting OpenCode Go, Ollama local models, and Model Context Protocol (MCP) server integrations.
 
